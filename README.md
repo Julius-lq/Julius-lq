@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a colledge student based in Changsha, Hunan.  You can view my notes at https://liuqing-keeping.gitee.io/
 <!--
 **Julius-lq/Julius-lq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
