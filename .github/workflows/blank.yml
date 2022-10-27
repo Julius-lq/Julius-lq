@@ -23,6 +23,6 @@ jobs:
      
       - uses: EndBug/add-and-commit@v7.2.1
         with:
-          branch: main
+          branch: dist
           message: 'Generate Contribution Snake'
         
