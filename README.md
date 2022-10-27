@@ -10,6 +10,7 @@ I am a colledge student based in Changsha, Hunan.  You can view my notes at http
 ## GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Julius-lq&theme=tokyonight&title_color=0D47A1&text_color=1565C0&bg_color=70,CE9FFC,2AFADF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Julius-lq&theme=tokyonight&title_color=0D47A1&text_color=1565C0&bg_color=70,CE9FFC,2AFADF)
 
 
 
