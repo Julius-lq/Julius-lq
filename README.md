@@ -11,6 +11,6 @@ I am a colledge student based in Changsha, Hunan.  You can view my notes at http
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Julius-lq&theme=tokyonight&title_color=0D47A1&text_color=1565C)
 
-## 个人commit数
+## my commits
 
 ![snack](https://raw.githubusercontent.com/Julius-lq/Julius-lq/dist/snake.svg)
