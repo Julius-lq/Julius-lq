@@ -5,7 +5,7 @@ I am a colledge student based in Changsha, Hunan.  You can view my notes at http
 
 | statistics                                                   | language                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![amourexu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julius-lq&count_private=true&theme=tokyonight&bg_color=50,CE9FFC,2AFADF&title_color=0D47A1&text_color=1565C0&locale=cn&include_all_commits=true&card_width=480) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julius-lq&layout=compact&theme=tokyonight&bg_color=70,CE9FFC,2AFADF&title_color=0D47A1&text_color=1565C0&card_width=350) |
+| ![amourexu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julius-lq&count_private=true&theme=tokyonight&bg_color=50,CE9FFC,2AFADF&title_color=0D47A1&text_color=1565C0&locale=cn&include_all_commits=true&card_width=480) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julius-lq&layout=compact&theme=tokyonight&bg_color=70,CE9FFC,2AFADF&title_color=0D47A1&text_color=1565C0&card_width=420) |
 
 ## GitHub Streak
 
