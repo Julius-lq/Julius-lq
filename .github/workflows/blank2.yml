@@ -21,4 +21,4 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_calendar: yes
-          plugin_calendar_limit: 0name: generate snake animation
+          plugin_calendar_limit: 0
