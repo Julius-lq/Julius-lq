@@ -1,5 +1,6 @@
 # Hi there 👋
-I am a colledge student based in Changsha, Hunan.  You can view my notes at https://liuqing-keeping.gitee.io/
+<!-- I am a colledge student based in Changsha, Hunan.  You can view my notes at https://liuqing-keeping.gitee.io/ -->
+I am a colledge student based in Changsha, Hunan.
 
 ## 统计
 
